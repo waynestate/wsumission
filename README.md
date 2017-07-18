@@ -1,7 +1,6 @@
 # Wayne State University Mission
 
-[Put mission image here]
-
+![Mission Image](https://user-images.githubusercontent.com/636531/28331490-49f2ccd8-6bbf-11e7-8ce0-2b223791557d.png)
 
 ## Demo
 
