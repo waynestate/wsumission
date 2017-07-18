@@ -1,0 +1,29 @@
+{
+    "name": "@waynestate/wsumission",
+    "version": "1.0.0",
+    "description": "Wayne State University Mission",
+    "scripts": {
+        "build": "./build.sh"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/waynestate/wsumission"
+    },
+    "keywords": [
+        "wsu",
+        "mission"
+    ],
+    "author": "Web Communications <web@wayne.edu>",
+    "bugs": {
+        "url": "https://github.com/waynestate/wsumission/issues"
+    },
+    "devDependencies": {
+        "css-loader": "^0.26.1",
+        "node-sass": "^4.5.2",
+        "sass-loader": "^6.0.3",
+        "webpack": "^2.3.2"
+    },
+    "dependencies": {
+        "extract-text-webpack-plugin": "^2.1.0"
+    }
+}
